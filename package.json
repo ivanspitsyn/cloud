@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/ivanspitsyn/cloud/issues"
   },
-  "homepage": "https://github.com/ivanspitsyn/cloud#readme"
+  "homepage": "https://github.com/ivanspitsyn/cloud#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }

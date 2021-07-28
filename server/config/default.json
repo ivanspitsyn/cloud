@@ -1,0 +1,4 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://okinavi:port@cloud.drkoq.mongodb.net/Cloud?retryWrites=true&w=majority"
+}
